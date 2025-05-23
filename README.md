@@ -1,12 +1,51 @@
-# React + Vite
+# ⚛️ Password Generator App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A slick, cyberpunk-style password generator built with **React** and mad vibes.
 
-Currently, two official plugins are available:
+Generate ultra-strong passwords on the fly with customizable options — served with neon visuals and buttery-smooth UX.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Preview](./public/passGen.png)
+<!-- Replace this with your actual screenshot path -->
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Features
+
+- 🔐 Strong password generation with customizable options
+- 🎛️ Choose length, symbols, numbers, uppercase, lowercase
+- 📋 One-click copy to clipboard
+- ⚡ Built using React functional components + hooks
+- 💅 Neon-themed, futuristic UI (custom styled)
+- 🌀 Reset + Regenerate instantly
+
+---
+
+## 🚀 Live Demo
+
+**[🔗 Try it here](https://shiftingParadigm.github.io/password-generator/)**  
+> _Hosted via GitHub Pages (or Netlify/Vercel if deployed there)_
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech         | Usage                        |
+|--------------|------------------------------|
+| React        | UI Library                   |
+| HTML/CSS     | Styling (custom, no Tailwind)|
+| JavaScript   | Core logic (ES6+)            |
+| Vite/CRA     | Bundler (you choose)         |
+
+---
+
+## 🔄 Installation & Setup
+
+1. Clone the repo
+2. Install dependencies
+3. Run locally
+
+```bash
+git clone https://github.com/yourusername/password-generator.git
+cd password-generator
+npm install
+npm run dev   # or npm start if using CRA
