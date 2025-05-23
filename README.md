@@ -4,7 +4,8 @@
 
 Generate ultra-strong passwords on the fly with customizable options — served with neon visuals and buttery-smooth UX.
 
-![screenshot](./Assets/passGen.png) <!-- Replace this with your actual screenshot path -->
+![App Preview](./public/passGen.png)
+<!-- Replace this with your actual screenshot path -->
 
 ---
 
