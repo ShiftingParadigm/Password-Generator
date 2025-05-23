@@ -7,7 +7,7 @@ function HeaderLogo() {
   return (
     <div className='head'>
    <img src={cyberpunkImage} alt="Cyberpunk" />
-   <h1 className='logohead'> <a target="_blank" href="https://github.com/ShiftingParadigm">Malboro</a>/Password-Generator </h1>
+   <h1 className='logohead'> <a target="_blank" href="https://github.com/ShiftingParadigm">Malboro</a>🐉/Password-Generator </h1>
     </div>
   )
 }
