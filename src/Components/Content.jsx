@@ -65,7 +65,7 @@ function Content() {
 
 <div className="slider-container">
     <div className="value-label" id="valueLabel"></div>
-    <input type="range" id="slider" min={2} max={36}  onChange={(e) => {setLength(e.target.value)}}/>
+    <input type="range" id="slider" min={2} max={32}  onChange={(e) => {setLength(e.target.value)}}/>
     <label htmlFor="valueLabel">Length : {Length}</label>
   </div>
 
